@@ -4,6 +4,10 @@ This repository contains all the relevant files to run the associated scripts, �
 
 A brief description for each file found in this repository can be found below.
 
+If the repo cannot be effectivvely cloned with the input files, 20220704_OPM_Data_Science_Assessment_Analysis_AWS_Readfiles.ipynb can be used to pull the needed files from aws for the full script.
+
+This repo must be cloned to be used, due to the large files added using git lfs.
+
 1.	ds_code_challenge-main.zip – cloned github repository of the CPT DS challenge.
 2.	20220701_Download_Files_AWS.ipynb - Jupyter notebook to download files from AWS.
 3.	20220701_Download_Files_AWS.html – Self-contained and executed html of the relative jupyter notebook of the same name to download files from AWS.
@@ -17,3 +21,5 @@ A brief description for each file found in this repository can be found below.
 11.	20220703_231225_service_requests.csv – same file as the "sr.csv.gz" file of the challenge, renamed including datetime prefix.
 12.	20220704_082942_log_service_hex_joins.log – contains the required log messages for the “20220701 OPM Data Science Assessment - Analysis.ipynb” script.
 13.	20220704_085756_4_week_prediction_per_hex_sewer_blocked.csv – projected 4 week service requests per hex for a the service request type “Sewer: Blocked/Overflow”.
+14.	20220704_OPM_Data_Science_Assessment_Analysis_AWS_Readfiles.ipynb - Jupyter notebook for analysis of the various challenge sections including download of aws files.
+15.	20220704_OPM_Data_Science_Assessment_Analysis_AWS_Readfiles.html - Self-contained and executed html of the relative jupyter notebook of the same name for analysis of the various challenge sections.
